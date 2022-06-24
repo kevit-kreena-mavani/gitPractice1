@@ -4,4 +4,4 @@ const foo = {
     address : "xyz"
 }
 console.log(foo);
-console.log("name is :" , foo.name)
+console.log("name is :" , foo.name);
