@@ -5,3 +5,7 @@ const foo = {
 }
 console.log(foo);
 console.log("name is :" , foo.name);
+
+console.log(foo);
+console.log("name is :" , foo.name);console.log(foo);
+console.log("name is :" , foo.name);
